@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "doctrine/dbal": "^2.9",
+        "doctrine/dbal": "^2.12.0",
        "guzzlehttp/guzzle": "^7.0.1",
         "illuminate/cache": "~5.5|~6.0|~7.0|~8.0",
         "illuminate/container": "~5.5|~6.0|~7.0|~8.0",
@@ -23,7 +23,7 @@
         
     },
     "require-dev": {
-        "orchestra/testbench": "^4.3",
+        "orchestra/testbench": "^4.8",
         "squizlabs/php_codesniffer": "^3.5"
     },
     "autoload": {
